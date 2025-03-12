@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz Tester</string>
+    <string name="enter_login">Enter the login</string>
+    <string name="enter_password">Enter the password</string>
+    <string name="enter">ENTER</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_name">Enter the naame</string>
+    <string name="enter_email">Enter the email</string>
+</resources>
